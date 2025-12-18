@@ -1,0 +1,7 @@
+{
+  "name": "ProInvoice Designer",
+  "description": "A high-fidelity invoice generation tool designed to replicate professional layouts with AI-powered data extraction and smart formatting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
